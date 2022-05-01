@@ -2,8 +2,6 @@
 ### I'm João Paulo
 > An Information Retrieval researcher who likes to develop, analyze data and inovate on computer area.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoaoAlmeida&count_private=true&show_icons=true&include_all_commits=true)
-
 &nbsp;
 
 # Resume
@@ -17,6 +15,24 @@ Here, are some stacks that I have been working
 
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 
+&nbsp;
+
+# Stacks' summary that I have been using
+Take into account that these stacks are updated constantly once the knowledge is renewed
+<div>
+<a href="https://github.com/JoaoAlmeida"></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlmeida&layout=compact&langs_count=7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoAlmeida&show_icons=true&include_all_commits=true&count_private=true"/>
+</div>
+  
+&nbsp;
+
+# Contact
+  
+Follow-me and let's work together
+<div>
+<a href = "mailto:contato@jp.dias.almeida@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-dias-de-almeida-26046917" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <!--
 **JoaoAlmeida/JoaoAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
