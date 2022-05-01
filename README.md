@@ -1,6 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+### I'm João Paulo
+> An Information Retrieval researcher who likes to develop, analyze data and inovate on computer area.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoaoAlmeida&count_private=true&show_icons=true&include_all_commits=true)
+
+&nbsp;
+
+# Resume
+João Almeida obtained his doctorate in Computer Science from the [Federal University of Bahia](https://pgcomp.ufba.br/), Salvador, Brazil. He also is a professor at the [Federal Institute of Sergipe](http://ifs.edu.br/lagarto), teaching in the Information Systems graduation course since May/2021. He received his MSc in Applied Computing and Computer Engineering degree from the [State University of Feira de Santana](https://www.uefs.br/), Feira de Santana, Brazil. He also has worked as a Professor in the [Adventist college of Bahia](https://www.adventista.edu.br/), lectured in Database, Computer Architecture, and Operational Systems. His areas of interest are Machine Learning, Information Retrieval, and Recommender Systems.
 
 <!--
 **JoaoAlmeida/JoaoAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
